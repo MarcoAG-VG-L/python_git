@@ -1,0 +1,5 @@
+numero = float(input("Introduce un número decimal: "))
+numero_entero = int(numero)
+numero_cadena = str(numero)
+print(f"El número {numero} convertido a entero es: {numero_entero}")
+print(f"El número convertido a cadena es: {numero_cadena}")
